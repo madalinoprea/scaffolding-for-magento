@@ -8,6 +8,6 @@ chmod +x modman
 sudo mv modman /usr/bin
 cd [magento_root_folder]
 modman init
-modman scaffolding-for-magento https://github.com/madalinoprea/scaffolding-for-magento.git
+modman scaffolding-for-magento clone https://github.com/madalinoprea/scaffolding-for-magento.git
 </pre>
 
