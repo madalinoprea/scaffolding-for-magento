@@ -1,0 +1,3 @@
+# Comments are supported, begin a line with a hash
+shell/generate.php          shell/generate.php
+shell/scaffold              shell/scaffold
